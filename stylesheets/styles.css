@@ -777,7 +777,7 @@ dt {
 #header nav li.title {
   float: right;
   margin-right: 10px;
-  font-size: 16px;
+  font-size: 22px;
 }
 
 section {
@@ -846,6 +846,6 @@ section #title .credits.right {
   }
 
   nav {
-    display: none;
+    /*display: none;*/
   }
 }
